@@ -1,0 +1,23 @@
+.card {
+  font-size: 14px;
+}
+
+.card span {
+  font-weight: bold;
+  color: brown;
+}
+
+.card > div {
+  margin: 10px 0;
+}
+
+.card > a {
+  margin: 10px 0;
+}
+
+.card__email {
+  font-size: 12px;
+}
+
+
+
